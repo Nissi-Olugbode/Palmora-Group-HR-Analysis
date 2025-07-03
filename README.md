@@ -42,10 +42,10 @@ This involved exloring of the data to analyze the following:
 - Bonus Pay Allocation
 
 ### Data Analysis
-This includes dome basic lines on how I created the custom colums;
-Annual Bonus
+This includes some basic lines on how I created the custom colums;
+- Annual Bonus
 ``` =[Salary]*[Bonus Rate] ```
-Total Bonus Salary
+- Total Bonus Salary
 ```=[Salary]+[Annual Bonus] ```
 
 ### Power BI Dashboard
