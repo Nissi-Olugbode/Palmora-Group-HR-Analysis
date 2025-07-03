@@ -21,4 +21,11 @@ The primary data source used for this project is
   - Removed:
     -  Employees with missing salary data (no longer with the company).
     -  Entries with NULL department values.
+  - Created a conditional column "Salary Range"
+  - Created custom columns "Anual Bonus" and "Total Bonus Salary Pay"
+   
+### Exploratory Data Analysis
+
+### Data Analysis
+
 ### Power BI Dashboard
