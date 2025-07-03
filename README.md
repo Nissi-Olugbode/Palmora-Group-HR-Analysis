@@ -43,7 +43,8 @@ This involved exloring of the data to analyze the following:
 ### Data Analysis
 
 ### Power BI Dashboard
-
+The analysis includes a interactive Power BI dashboard with the following visualizations;
+- 
 ### Insights
 - There is no significant gender paygap seen in the dataset.
 - 654 employees fall below the required $90,000 minimum salary.
