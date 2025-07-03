@@ -26,18 +26,18 @@ The primary data source used for this project is
     -  Employees with missing salary data (no longer with the company).
     -  Entries with NULL department values.
   - Created a conditional column "Salary Range"
-  - Created custom columns "Anual Bonus" and "Total Bonus Salary Pay"
+  - Created custom columns "Anual Bonus" and "Total Bonus Salary"
    
 ### Exploratory Data Analysis
-This involved exloring of the data to answer these questions:
+This involved exloring of the data to analyze the following:
 - Gender Distribution Analysis
- -  Overall distribution of gender.
--   Breakdown by location and department.
+   - Overall distribution of gender.
+   - Breakdown by location and department.
 - Performance Rating by Gender
 - Salary Structure & Gender Pay Gap
--  Identify departments and locations with significant gaps.
+  - Identify departments and locations with significant gaps.
 - Evaluate adherence to the minimum salary requirement of $90,000.
-- Salary band analysis in $10,000 increments, visualized by region.
+  - Salary band analysis in $10,000 increments, visualized by region.
 - Bonus Pay Allocation
 
 
