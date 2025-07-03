@@ -40,7 +40,12 @@ This involved exloring of the data to analyze the following:
   - Salary band analysis in $10,000 increments, visualized by region.
 - Bonus Pay Allocation
 
-
 ### Data Analysis
 
 ### Power BI Dashboard
+
+### Insights
+- There is no significant gender paygap seen in the dataset.
+- 654 employees fall below the required $90,000 minimum salary.
+
+
