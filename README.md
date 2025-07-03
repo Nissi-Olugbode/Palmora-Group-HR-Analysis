@@ -12,6 +12,6 @@ This project involved analyzing the company's HR dataset using Power BI to uncov
 The primary data source used for this project is 
 
 ### Tools Used
-- Ms Excel for data cleaning
-- Power BI for data cleaning and creating report
-
+- Ms Excel for preliminary data exploration, data collection and data cleaning.
+- Power BI for data cleaning, data modelling and visualization.
+- DAX (Data Analysis Expressions): Measures and calculated columns.
