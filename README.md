@@ -19,6 +19,6 @@ The primary data source used for this project is
 ### Power BI Data Cleaning and Preparation
   - Reassigned non-disclosed gender entries as "Undisclosed"
   - Removed:
-    -- Employees with missing salary data (no longer with the company).
-    -- Entries with NULL department values.
+    -  Employees with missing salary data (no longer with the company).
+    -  Entries with NULL department values.
 ### Power BI Dashboard
