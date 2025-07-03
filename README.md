@@ -15,3 +15,10 @@ The primary data source used for this project is
 - Ms Excel for preliminary data exploration, data collection and data cleaning.
 - Power BI for data cleaning, data modelling and visualization.
 - DAX (Data Analysis Expressions): Measures and calculated columns.
+
+### Power BI Data Cleaning and Preparation
+  - Reassigned non-disclosed gender entries as "Undisclosed"
+  - Removed:
+    -- Employees with missing salary data (no longer with the company).
+    -- Entries with NULL department values.
+### Power BI Dashboard
