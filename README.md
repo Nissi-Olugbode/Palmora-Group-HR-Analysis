@@ -25,8 +25,9 @@ The primary data source used for this project is
   - Removed:
     -  Employees with missing salary data (no longer with the company).
     -  Entries with NULL department values.
+  - Merged two tables "Palmora Group emp-data" and "bonus mapping"
   - Created a conditional column "Salary Range"
-  - Created custom columns "Anual Bonus" and "Total Bonus Salary"
+  - Created custom columns "Annual Bonus" and "Total Bonus Salary"
    
 ### Exploratory Data Analysis
 This involved exloring of the data to analyze the following:
@@ -41,9 +42,13 @@ This involved exloring of the data to analyze the following:
 - Bonus Pay Allocation
 
 ### Data Analysis
-
+Annual Bonus
+``` [Salary]*[Bonus Rate] ```
+Total Bonus Salary
+```[Salary]+[Annual Bonus] ```
 ### Power BI Dashboard
 You can download the full `.pbix` file here: [https://github.com/Nissi-Olugbode/Palmora-Group-HR-Analysis/blob/main/Palmora%20Group%20project.pbix]
+
 The analysis includes a interactive Power BI dashboard with the following visualizations;
 
 
