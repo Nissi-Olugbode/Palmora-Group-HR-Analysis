@@ -42,10 +42,12 @@ This involved exloring of the data to analyze the following:
 - Bonus Pay Allocation
 
 ### Data Analysis
+This includes dome basic lines on how I created the custom colums;
 Annual Bonus
-``` [Salary]*[Bonus Rate] ```
+``` =[Salary]*[Bonus Rate] ```
 Total Bonus Salary
-```[Salary]+[Annual Bonus] ```
+```=[Salary]+[Annual Bonus] ```
+
 ### Power BI Dashboard
 You can download the full `.pbix` file here: [https://github.com/Nissi-Olugbode/Palmora-Group-HR-Analysis/blob/main/Palmora%20Group%20project.pbix]
 
