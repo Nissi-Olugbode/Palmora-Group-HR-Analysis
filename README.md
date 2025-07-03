@@ -30,6 +30,16 @@ The primary data source used for this project is
    
 ### Exploratory Data Analysis
 This involved exloring of the data to answer these questions:
+- Gender Distribution Analysis
+-  Overall distribution of gender.
+-  Breakdown by location and department.
+- Performance Rating by Gender
+- Salary Structure & Gender Pay Gap
+-  Identify departments and locations with significant gaps.
+- Evaluate adherence to the minimum salary requirement of $90,000.
+- Salary band analysis in $10,000 increments, visualized by region.
+- Bonus Pay Allocation
+
 
 ### Data Analysis
 
