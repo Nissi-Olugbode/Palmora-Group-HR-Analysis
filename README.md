@@ -9,7 +9,7 @@ The Palmora Group, a prominent manufacturing company in Nigeria, recently faced 
 This project involved analyzing the company's HR dataset using Power BI to uncover actionable insights focused on gender equality, pay equity, and regulatory compliance.
 
 ### Data Source
-The primary data source used for this project is 
+The primary data source used for this project is Palmora Group emp data.csv and Palmora Group Bonus Rules.xls
 
 ### Objectives
 - Analyze HR data to identify gender-related discrepancies within the company.
