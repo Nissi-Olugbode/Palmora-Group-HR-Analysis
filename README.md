@@ -52,10 +52,18 @@ This includes some basic lines on how I created the custom colums;
 You can download the full `.pbix` file here: [https://github.com/Nissi-Olugbode/Palmora-Group-HR-Analysis/blob/main/Palmora%20Group%20project.pbix]
 
 The analysis includes a interactive Power BI dashboard with the following visualizations;
-
+- Gender distribution by location
+- Ratings based on Gender
+- Average salary based on gender
+- Gender distribution by department
+- Salary distribution ranges in all location
+- Salary distribution range by gender
+- Average bonus salary by location
+- Employees with >$90,000 or <$90,000 salary
 
 ### Insights
 - There is no significant gender paygap seen in the dataset.
-- 654 employees fall below the required $90,000 minimum salary.
+- There is a gender paygap of $2.65k across all departments and regions with 465 male employee and 441 female employee.
+- 654 employees (69% OF EMPLOYEES) fall below the required $90,000 minimum salary.
 
 
