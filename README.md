@@ -31,8 +31,8 @@ The primary data source used for this project is
 ### Exploratory Data Analysis
 This involved exloring of the data to answer these questions:
 - Gender Distribution Analysis
--  Overall distribution of gender.
--  Breakdown by location and department.
+ -  Overall distribution of gender.
+-   Breakdown by location and department.
 - Performance Rating by Gender
 - Salary Structure & Gender Pay Gap
 -  Identify departments and locations with significant gaps.
