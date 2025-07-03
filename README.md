@@ -11,6 +11,10 @@ This project involved analyzing the company's HR dataset using Power BI to uncov
 ### Data Source
 The primary data source used for this project is 
 
+### Objectives
+- Analyze HR data to identify gender-related discrepancies within the company.
+- Allocate the annual bonus pay to employees based on the performance rating.
+ 
 ### Tools Used
 - Ms Excel for preliminary data exploration, data collection and data cleaning.
 - Power BI for data cleaning, data modelling and visualization.
@@ -25,6 +29,7 @@ The primary data source used for this project is
   - Created custom columns "Anual Bonus" and "Total Bonus Salary Pay"
    
 ### Exploratory Data Analysis
+This involved exloring of the data to answer these questions:
 
 ### Data Analysis
 
