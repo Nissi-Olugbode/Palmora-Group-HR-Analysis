@@ -43,6 +43,7 @@ This involved exloring of the data to analyze the following:
 ### Data Analysis
 
 ### Power BI Dashboard
+You can download the full `.pbix` file here: [
 The analysis includes a interactive Power BI dashboard with the following visualizations;
 
 
