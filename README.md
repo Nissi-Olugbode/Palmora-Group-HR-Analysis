@@ -49,7 +49,7 @@ This includes some basic lines on how I created the custom colums;
 ```=[Salary]+[Annual Bonus] ```
 
 ### Power BI Dashboard
-You can download the full `.pbix` file here: [https://github.com/Nissi-Olugbode/Palmora-Group-HR-Analysis/blob/main/Palmora%20Group%20project.pbix]
+Download the full `.pbix` file [here.](https://github.com/Nissi-Olugbode/Palmora-Group-HR-Analysis/blob/main/Palmora%20Group%20project.pbix)
 
 The analysis includes a interactive Power BI dashboard with the following visualizations;
 - Gender distribution by location
