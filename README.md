@@ -61,7 +61,7 @@ The analysis includes a interactive Power BI dashboard with the following visual
 - Average bonus salary by location
 - Employees with >$90,000 or <$90,000 salary
 Here is a preview of the Palmora group analysis Power BI dashboard.
-![Preview](https://github.com/Nissi-Olugbode/Order-data-analysis/blob/main/KMS%20dashboard.JPG)
+![Preview](https://github.com/Nissi-Olugbode/Palmora-Group-HR-Analysis/blob/main/palmora.JPG)
   
 
 ### Insights
