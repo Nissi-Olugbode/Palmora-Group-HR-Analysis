@@ -60,10 +60,13 @@ The analysis includes a interactive Power BI dashboard with the following visual
 - Salary distribution range by gender
 - Average bonus salary by location
 - Employees with >$90,000 or <$90,000 salary
+Here is a preview of the Palmora group analysis Power BI dashboard.
+![Preview](https://github.com/Nissi-Olugbode/Order-data-analysis/blob/main/KMS%20dashboard.JPG)
+  
 
 ### Insights
 - There is no significant gender paygap seen in the dataset.
-- There is a gender paygap of $2.65k across all departments and regions with 465 male employee and 441 female employee.
+- There is a gender paygap of $2.65k across all departments and regions but there are 465 male employee and 441 female employee, making this paygap insignificant.
 - 654 employees (69% OF EMPLOYEES) fall below the required $90,000 minimum salary.
 
 
